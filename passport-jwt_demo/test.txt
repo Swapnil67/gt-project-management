@@ -1,0 +1,2 @@
+This is first time I completely understood how passport-jwt actually work and successfully implemented the complete authentication witl passport-jwt accesstokens.
+This is the version-1, I'll soon be uploading the version-2 which has the functionality of refreshtokens.

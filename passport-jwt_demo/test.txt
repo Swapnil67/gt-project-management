@@ -1,2 +1,4 @@
-This is first time I completely understood how passport-jwt actually work and successfully implemented the complete authentication witl passport-jwt accesstokens.
+This is first time I completely understood how passport-jwt actually work and successfully implemented the complete authentication with passport-jwt accesstokens.
 This is the version-1, I'll soon be uploading the version-2 which has the functionality of refreshtokens.
+-------------------------------------------------------
+To run this first create a new nest project using "nest new project_name" and overwrite the /src folder with ours and also install extra dependencies and devdependencies manually which are specified in the packag.json file.
